@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.1e81692a.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.906fb7b3.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.906fb7b3.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.213b1880.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.213b1880.js.map",
+    "static/css/2.a25b08ee.chunk.css": "/react-portfolio/static/css/2.a25b08ee.chunk.css",
+    "static/js/2.fcf22007.chunk.js": "/react-portfolio/static/js/2.fcf22007.chunk.js",
+    "static/js/2.fcf22007.chunk.js.map": "/react-portfolio/static/js/2.fcf22007.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "precache-manifest.a4c8a8dd306cc42acdf900f4ce157bc0.js": "/react-portfolio/precache-manifest.a4c8a8dd306cc42acdf900f4ce157bc0.js",
+    "service-worker.js": "/react-portfolio/service-worker.js",
+    "static/css/2.a25b08ee.chunk.css.map": "/react-portfolio/static/css/2.a25b08ee.chunk.css.map",
+    "static/css/main.1e81692a.chunk.css.map": "/react-portfolio/static/css/main.1e81692a.chunk.css.map",
+    "static/js/2.fcf22007.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.fcf22007.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/react-portfolio/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/yoshida-alley-img.jpg": "/react-portfolio/static/media/yoshida-alley-img.5dc55d94.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.213b1880.js",
+    "static/css/2.a25b08ee.chunk.css",
+    "static/js/2.fcf22007.chunk.js",
+    "static/css/main.1e81692a.chunk.css",
+    "static/js/main.906fb7b3.chunk.js"
+  ]
+}
